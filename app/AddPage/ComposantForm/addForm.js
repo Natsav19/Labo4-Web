@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.css";
-import FormStyle from './Form.css';
+import FormStyle from '../Form.css';
 export default function AddForm(){
     async function confirmerPublication(formData) {
         "use server";
